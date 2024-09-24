@@ -6,7 +6,7 @@ from PySide6.QtQml import QQmlApplicationEngine
 if __name__ == "__main__":
     app = QGuiApplication(sys.argv)
     engine = QQmlApplicationEngine()
-    # qml_file = Path(__file__).parent / '1.qml'
+    # qml_file = Path(__file__).parent / 'Практика 1.qml'
     # qml_file = Path(__file__).parent / 'main.qml'
     # qml_file = Path(__file__).parent / 'DOP1.qml'
     # qml_file = Path(__file__).parent / 'DOP2.qml'
